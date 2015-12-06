@@ -1,4 +1,5 @@
-# http://raspberrypi.stackexchange.com/questions/14680/raspberry-pi-gpio-input-pins-give-random-values
+# http://razzpisampler.oreilly.com/ch07.html
+# https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/buttons_and_switches/
 
 try:
 	import RPi.GPIO as GPIO
